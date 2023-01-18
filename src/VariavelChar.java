@@ -1,13 +1,17 @@
 public class VariavelChar {
     public static void main(String[] args) {
-        char Hello = 'H';
-        char Hello01 = 'E';
-        char Hello02 = 'L';
-        char Hello03 = 'L';
-        char Hello04 = 'O';
+        //char Hello = 'H';
+        //char Hello01 = 'E';
+        //char Hello02 = 'L';
+        //char Hello03 = 'L';
+        //char Hello04 = 'O';
 
+         //System.out.println("" + Hello + Hello01 + Hello02 + Hello03 + Hello04);
 
-        System.out.println("" + Hello + Hello01 + Hello02 + Hello03 + Hello04);
+        char soma = 321;
+        char soma01 = 123;
+        System.out.println(soma+soma01);
+
 
 
     }
