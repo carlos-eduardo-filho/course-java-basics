@@ -6,7 +6,7 @@ public class VariaveisInteiras {
         int idade03 = 24;
         long idade04 = 7454;
 
-        System.out.println("Valor da Variavel:"+ idade01);
+        System.out.println("Valor da Variavel:" + idade01);
         System.out.println("Valor Variavel:" + idade02);
         System.out.println("Valor Variavel:" + idade03);
         System.out.println("Valor Variavel:" +  idade04);
